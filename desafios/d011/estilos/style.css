@@ -73,6 +73,8 @@ section {
 .imagem {
     background-color: rgb(49, 49, 49);
     color: white;
+    background: black url('../imagens/background001.jpg') center center no-repeat fixed;
+    background-size: cover;
 }
 
 .imagem > p {
